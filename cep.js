@@ -1,4 +1,4 @@
-//jQuery wropper
+//jQuery wrapper
 jQuery(document).ready(function(){
     //acoes
     const numbersOnly = function(e){
